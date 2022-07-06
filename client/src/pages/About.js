@@ -1,10 +1,10 @@
 import Header from "../../header";
-import Nav from "../../nav";
+import Footer from "./footer";
 const About = () => (
 	<main role="main">
 		<div>
 			<Header />
-			<Nav />
+			<Footer />
 		</div>
 	</main>
 );
