@@ -6,6 +6,8 @@
 import "./App.css";
 import AboutPratibhaNakshatra from "./AboutPratibhaNakshatra";
 
+
+
 const App = () => (
 	// <Routes>
 	// 	<Route path="/" element={<Home />} />
